@@ -98,6 +98,26 @@ ul {
     letter-spacing: 5px;
 }
 
+.title2 {
+    font-size: 60px;
+    text-align: center;
+    color: #FFF;
+    margin-bottom: 0.8em;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
+.liverpool {
+    width: 250px;
+    min-height: 30px;
+    max-height: auto;
+    float: center;
+    margin: auto;
+    padding: 3px;
+    text-align: center;
+}
+
+
 .clr {
     color: #fff;
 }
