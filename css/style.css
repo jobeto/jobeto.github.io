@@ -1226,12 +1226,21 @@ font-size:14px;
 }
 
 .party{
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.spidey{
+    width: 100px;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
 .partyBack{
+    width: 120px;
     display: block;
     margin-left: auto;
     margin-right: auto;
